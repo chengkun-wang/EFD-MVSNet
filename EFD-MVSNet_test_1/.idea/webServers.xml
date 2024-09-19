@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ff908b8-6c51-404d-9d32-bb0d55af5a8e" name="geo_test_1">
+        <fileTransfer rootFolder="/home/ubuntu/home/wck/GeoMVSNet_test_1" accessType="SFTP" host="183.175.12.100" port="9054" sshConfigId="4a78ebce-2011-4efd-ae3a-2652068f5370" sshConfig="ubuntu@183.175.12.100:9054 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

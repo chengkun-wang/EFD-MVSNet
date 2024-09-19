@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f723d97-11d5-4ad4-be2a-62f8c73bafc3" name="texture">
+        <fileTransfer rootFolder="/home/ubuntu/home/wck/texture" accessType="SFTP" host="183.175.12.100" port="9054" sshConfigId="3e48653f-057f-4a91-a4ff-bbf7131b041e" sshConfig="ubuntu@183.175.12.100:9054 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
